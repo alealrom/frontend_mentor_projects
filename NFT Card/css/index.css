@@ -1,0 +1,133 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);  
+}
+
+.mainContainer {
+    display: grid;
+    width: 100%;
+    min-height: 100vh;
+    place-content: center;
+}
+
+.cardContainer {
+    display: grid;
+    padding: 25px;
+    grid-template-columns: 310px;
+    place-content: center;
+    align-items: center;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;  
+}
+
+.imgEquilibrium {
+    width: 310px;
+    height: 310px;
+    background-image: url(../img/image-equilibrium.jpg);
+    background-size: cover;
+    border-radius: 10px;   
+}
+
+.imgView {
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/icon-view.svg);
+    background-color: hsl(178, 100%, 50%);
+    background-repeat: no-repeat;
+	background-position: center;
+    opacity: 0;
+    border-radius: 10px;
+    transition: opacity 0.5s;
+}
+
+.imgView:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.NFTName {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-size: 24px;
+    font-weight: 600;
+    color: hsl(0, 0%, 100%); 
+    text-decoration: none;  
+}
+
+.NFTName:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.containerDetails {
+    display: flex;
+    height: 18px;
+    justify-content: space-between;
+}
+
+.textNFT {
+    font-size: 18px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+
+.priceNFT {
+    margin-top: -2px;
+    margin-left: 6px;
+    font-size: 18px;
+    color: hsl(178, 100%, 50%);
+}
+
+.containerFlex {
+    display: flex;
+}
+
+.daysLeft {
+    margin-top: 0px;
+    margin-left: 10px;
+    color: hsl(215, 51%, 70%);
+}
+
+.creatorContainer {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: -5px;
+    border-top: 1px solid hsl(215, 51%, 70%);
+}
+
+.photoCreator {
+    height: 30px;
+    margin-top: 20px;
+    border: 2px solid hsl(0, 0%, 100%);
+    border-radius: 50px;
+}
+
+.creationDetails {
+    margin-top: 28px;
+    margin-left: 15px;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+}
+
+.nameCreator {
+    margin-top: 28px;
+    margin-left: 4px;
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
+}
+
+.nameCreator:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.attribution {
+    margin-top: 15px;
+    font-size: 11px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
