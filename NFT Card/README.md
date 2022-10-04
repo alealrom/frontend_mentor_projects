@@ -22,11 +22,12 @@ The challenge was to build out NFT Card Component and get it looking as close to
 
 ![](/design/solution-alealrom-desktop.jpg)
 ![](/design/solution-alealrom-mobile.jpg)
+![](/design/solution_alealrom_active_states.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/alealrom/product_card_component](https://github.com/alealrom/product_card_component)
-- Live Site URL: [https://alealrom.github.io/product_card_component/](https://alealrom.github.io/product_card_component/)
+- Solution URL: [https://github.com/alealrom/NTF_card](https://github.com/alealrom/NTF_card)
+- Live Site URL: [https://alealrom.github.io/NTF_card/](https://alealrom.github.io/NTF_card/)
 
 ## My Porcess
 
