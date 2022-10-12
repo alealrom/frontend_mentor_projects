@@ -20,8 +20,8 @@ The challenge was to build out NFT Card Component and get it looking as close to
 
 ### Screenshot
 
-![](/design/solution-alealrom-desktop.jpg)
-![](/design/solution-alealrom-mobile.jpg)
+![](/design/solution_alealrom_mobile.jpg)
+![](/design/solution_alealrom_desktop.jpg)
 ![](/design/solution_alealrom_active_states.jpg)
 
 ### Links
