@@ -1,4 +1,4 @@
-# Frontend Mentor - NFT Card Solution
+# alealrom - NFT Card Solution
 
 This is a solution to NFT Card challenge on Frontend Mentor.
 
