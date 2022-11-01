@@ -14,7 +14,7 @@ With Frontend Mentor I want better my improve your coding skills by building rea
 
 ### [Coming Soon Page](https://alealrom.github.io/coming_soon_page/)
 
-### [Interactive Rating Component](https://alealrom.github.io/interactive-rating-component/)
+### [Interactive Rating Component](https://alealrom.github.io/interactive_rating_component/)
 
 ## Author
 
